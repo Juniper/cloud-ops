@@ -13,7 +13,7 @@ AWS [CloudFormation](https://aws.amazon.com/cloudformation/) provides a common l
 
 * RedHat OpenShift with OpenContrail SDN
 
-     <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-1#/stacks/new?stackName=contrail-k8s&amp;templateURL=https://s3-us-west-1.amazonaws.com/contrail-dev-ops/openshift-contrail-stack-5.yaml" target="_blank"><img alt="Launch Stack" src="https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg"></a>
+     <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-1#/stacks/new?stackName=contrail-k8s&amp;templateURL=https://s3-us-west-1.amazonaws.com/contrail-k8-501/openshift-contrail-stack-5.yaml" target="_blank"><img alt="Launch Stack" src="https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg"></a>
 
 
 ## HashiCorp Terraform
