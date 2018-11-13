@@ -10,4 +10,4 @@ metadata:
 spec:
   containers:
     - name: backend-pod
-      image: ubuntu-upstart
+      image: virtualhops/ato-ubuntu:latest
